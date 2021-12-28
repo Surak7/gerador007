@@ -1,8 +1,8 @@
 key='6aceb750-76fc-466d-b214-c5e439e90f10'
 app_name="geradorgg"
 deviceid="32DB0120CBB3C3FDC585A637104CBFBDB10D1D3F93158049AE921DA40A88318DB3DDEA6BCD9F9A31C7"
-emaill="koaqueiroz007@gmail.com"
-passwordd="ck0079805321"
+emaill="e8bf0gjt9@xojxe.com"
+passwordd="tempmail"
 custompwd="kc079805321"
 private="08d8faca-82a0-4bb0-8eab-0b35b606e962"
 chatlink="http://aminoapps.com/p/khzstd"
